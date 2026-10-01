@@ -1,0 +1,4 @@
+*.webp binary
+*.png binary
+*.sh text eol=lf
+*.ps1 text eol=crlf
